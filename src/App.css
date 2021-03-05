@@ -1,0 +1,18 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 600;
+    padding: 20px 40px;
+    background-color: #ffffff;
+    background-image: url("https://i.ibb.co/S3zZVrp/backgroud.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+* {
+    box-sizing: border-box;
+}
